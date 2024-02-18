@@ -400,6 +400,28 @@ left(50)
 forward(10)
 
 
+
+penup()
+goto(75,300)
+pendown()
+left(50)
+forward(10)
+
+
+
+penup()
+goto(75,300)
+pendown()
+left(50)
+forward(10)
+
+
+penup()
+goto(75,300)
+pendown()
+left(50)
+forward(10)
+
 penup()
 goto(75,300)
 pendown()
@@ -419,21 +441,6 @@ goto(75,300)
 pendown()
 left(50)
 forward(10)
-
-
-penup()
-goto(75,300)
-pendown()
-left(50)
-forward(10)
-
-
-penup()
-goto(75,300)
-pendown()
-left(50)
-forward(10)
-
 
 
 

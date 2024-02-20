@@ -1,4 +1,5 @@
-name="nanuka"
-surname="tughushi"
-age=12
-print(" hey, my name is" + " " +name+ " " + (surname) +", " + "i'm" " "+ str(age)+", " "in ten years i'll be" + " " + str(age+10))
+name = "nanuka"
+surname = "tughushi"
+age = 12
+print(" hey, my name is " + name+ " " + (surname) +", i'm " 
+      + str(age)+ ", in ten years i'll be " + str(age+10))

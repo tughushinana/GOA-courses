@@ -1,4 +1,5 @@
 from turtle import*
+
 speed(39)
 width(5)
 
@@ -436,20 +437,12 @@ left(50)
 forward(10)
 
 
+
 penup()
 goto(75,300)
 pendown()
 left(50)
 forward(10)
-
-
-
-
-
-
-
-
-
 
 
 
